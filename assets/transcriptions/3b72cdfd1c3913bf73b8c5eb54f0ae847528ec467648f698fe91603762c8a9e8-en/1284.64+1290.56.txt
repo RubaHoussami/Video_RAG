@@ -1,0 +1,1 @@
+restrict yourself to bipartite graphs where we know that max independent set can be solved in

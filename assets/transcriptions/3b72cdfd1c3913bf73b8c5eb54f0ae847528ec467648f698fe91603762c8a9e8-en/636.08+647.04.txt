@@ -1,0 +1,1 @@
+And notice that without this condition, the problem is trivial. So you can basically just flip the bits however you like and reach S from T or T from S.

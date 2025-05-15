@@ -1,0 +1,1 @@
+study the parametrize complexity of token sliding and token jumping on bipartite graphs using the

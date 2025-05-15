@@ -1,0 +1,1 @@
+and the question is can you place K tokens on your graph K black tokens so that no two of these tokens

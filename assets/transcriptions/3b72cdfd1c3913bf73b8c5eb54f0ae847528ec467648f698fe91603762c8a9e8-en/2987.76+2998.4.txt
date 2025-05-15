@@ -1,0 +1,1 @@
+with k squared over log k vertices must have an independent set of size at least k and now we know that if h contains more than this many vertices that we will get the yes instance

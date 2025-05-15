@@ -1,0 +1,1 @@
+a yes instance is a vertex of degree at least 3k so if you have c3c for freeness inside j

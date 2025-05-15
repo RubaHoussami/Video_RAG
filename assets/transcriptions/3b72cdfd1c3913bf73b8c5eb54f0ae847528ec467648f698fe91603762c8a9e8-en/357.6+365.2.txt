@@ -1,0 +1,1 @@
+basically four neighbors of that vertex in the graph. And we call this whole graph, the reconfiguration

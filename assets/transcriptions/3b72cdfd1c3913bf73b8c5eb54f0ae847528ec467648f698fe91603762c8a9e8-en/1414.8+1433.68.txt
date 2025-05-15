@@ -1,0 +1,1 @@
+sliding is harder usually than token jumping but it's not always the case all right so that's it for classical complexity so now let's move on to parametrize complexity

@@ -1,0 +1,1 @@
+you want to know if you can satisfy this formula by assigning values to the variables.

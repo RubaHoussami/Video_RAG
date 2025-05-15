@@ -1,0 +1,1 @@
+on a click and then we're gonna add something that we call a switch and in this case it's a simple

@@ -1,0 +1,1 @@
+tree width or path width or even bucket width so a very very very simple graph structure

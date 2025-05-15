@@ -1,0 +1,1 @@
+we have one vertex or one node in this graph for each possible configuration of the puzzle.

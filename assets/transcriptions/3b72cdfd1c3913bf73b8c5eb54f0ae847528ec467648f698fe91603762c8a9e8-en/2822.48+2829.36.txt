@@ -1,0 +1,1 @@
+can have at most one neighbor in common with the yellow vertex because if you do have two neighbors

@@ -1,0 +1,1 @@
+in the solution space of the given formula of all the satisfying assignment of the formula F.

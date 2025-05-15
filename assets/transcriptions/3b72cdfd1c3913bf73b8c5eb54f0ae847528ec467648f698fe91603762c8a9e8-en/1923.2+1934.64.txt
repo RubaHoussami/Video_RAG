@@ -1,0 +1,1 @@
+if you take any p greater than or equal to 4 then both problems are w hard on c4 c5 dot dot dot up to cp

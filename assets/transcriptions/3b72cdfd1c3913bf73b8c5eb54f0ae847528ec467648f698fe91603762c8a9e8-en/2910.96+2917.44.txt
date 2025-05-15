@@ -1,0 +1,1 @@
+if j has a vertex of degree 3k or more it's trivial yes instance and now you combine all of

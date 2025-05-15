@@ -1,0 +1,1 @@
+about reconfiguration problem where you're given some state and you want to reach the other one

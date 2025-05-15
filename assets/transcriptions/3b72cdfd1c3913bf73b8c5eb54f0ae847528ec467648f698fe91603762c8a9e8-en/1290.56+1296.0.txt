@@ -1,0 +1,1 @@
+polynomial time if you restrict yourself to those graphs it turns out that token jumping

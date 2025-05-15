@@ -1,0 +1,1 @@
+And we know that this is NP complete for K greater than or equal to three. So now how can you transform this into a reconfiguration problem? Well, it's very simple.

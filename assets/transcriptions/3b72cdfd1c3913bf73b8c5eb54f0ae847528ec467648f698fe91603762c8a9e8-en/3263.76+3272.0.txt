@@ -1,0 +1,1 @@
+particular vertex the number of times you can move a token to a particular vertex

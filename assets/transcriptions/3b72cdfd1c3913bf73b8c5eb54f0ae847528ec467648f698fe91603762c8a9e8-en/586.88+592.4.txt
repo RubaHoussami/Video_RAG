@@ -1,0 +1,1 @@
+So all of you here are familiar with the case sad problem. So you're given a Boolean formula and

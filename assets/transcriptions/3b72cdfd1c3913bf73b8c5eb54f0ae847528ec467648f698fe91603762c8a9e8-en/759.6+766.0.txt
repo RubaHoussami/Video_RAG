@@ -1,0 +1,1 @@
+share an edge. And of course we all know that this is an NP complete problem. So how can you

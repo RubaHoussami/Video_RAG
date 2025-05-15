@@ -1,0 +1,1 @@
+Is there some sort of a nice structure to the components of this graph?

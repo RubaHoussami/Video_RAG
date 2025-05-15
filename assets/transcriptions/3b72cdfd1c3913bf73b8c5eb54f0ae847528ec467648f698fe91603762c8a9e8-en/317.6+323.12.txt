@@ -1,0 +1,1 @@
+in addition to where you're going to put the empty square. Each one of those will be a vertex

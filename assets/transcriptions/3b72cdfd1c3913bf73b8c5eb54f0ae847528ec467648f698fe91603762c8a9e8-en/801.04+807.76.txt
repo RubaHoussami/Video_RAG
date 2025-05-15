@@ -1,0 +1,1 @@
+take any token on your graph and jump it to any other vertex on the graph assuming that it doesn't

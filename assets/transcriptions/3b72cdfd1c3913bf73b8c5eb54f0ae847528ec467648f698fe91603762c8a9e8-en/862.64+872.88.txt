@@ -1,0 +1,1 @@
+reconfiguration graphs we can think about. We can think about the reconfiguration graph under the token jumping adjacency and we can think about the reconfiguration graph under the token sliding

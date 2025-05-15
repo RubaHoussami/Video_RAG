@@ -1,0 +1,1 @@
+if a vertex if a vertex cannot get a token twice then it somehow seems to be selecting

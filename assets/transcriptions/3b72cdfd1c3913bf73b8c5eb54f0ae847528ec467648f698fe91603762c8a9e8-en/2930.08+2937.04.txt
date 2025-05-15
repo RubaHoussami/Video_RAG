@@ -1,0 +1,1 @@
+that the rest of the graph has at most that many vertices so basically you sum up those numbers

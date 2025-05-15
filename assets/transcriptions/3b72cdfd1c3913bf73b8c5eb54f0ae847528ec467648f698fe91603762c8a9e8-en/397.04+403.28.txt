@@ -1,0 +1,1 @@
+well, the simplest one would be how big is this reconfiguration graph? How many vertices or how many

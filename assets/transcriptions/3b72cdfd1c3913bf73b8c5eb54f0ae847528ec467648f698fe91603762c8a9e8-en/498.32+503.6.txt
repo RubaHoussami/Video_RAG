@@ -1,0 +1,1 @@
+like in the case of the puzzle game, that I am given some starting state and we know what the

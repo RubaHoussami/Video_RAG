@@ -1,0 +1,1 @@
+so what if we enforce both bipartiteness as well as C4 freeness so on in that case we were able to

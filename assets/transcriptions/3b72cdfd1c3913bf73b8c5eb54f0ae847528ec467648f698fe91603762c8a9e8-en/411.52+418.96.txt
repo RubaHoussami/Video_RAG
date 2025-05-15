@@ -1,0 +1,1 @@
+More interestingly, you could ask, is this reconfiguration graph connected? Or can I reach any state

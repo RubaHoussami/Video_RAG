@@ -1,0 +1,1 @@
+to get to the target state starting from some initial state that is also given to me. So you can decide to solve this problem either as a decision problem or as a search problem,

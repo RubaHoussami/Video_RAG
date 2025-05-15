@@ -1,0 +1,1 @@
+call the buffer technique for the token jumping problem and and the solution behind the buffer technique is very simple so if I have s union t but somewhere in the graph which is not

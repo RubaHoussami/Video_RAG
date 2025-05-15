@@ -1,0 +1,1 @@
+right if I have a k-sized independent set in h then you're done you can basically take all the

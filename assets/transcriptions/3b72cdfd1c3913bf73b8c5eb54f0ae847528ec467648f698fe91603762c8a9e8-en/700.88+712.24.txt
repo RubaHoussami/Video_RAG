@@ -1,0 +1,1 @@
+And the question is can you recolor alpha to get the to beta? But you need to recolor one vertex at a time and you need to remain a proper K coloring throughout.

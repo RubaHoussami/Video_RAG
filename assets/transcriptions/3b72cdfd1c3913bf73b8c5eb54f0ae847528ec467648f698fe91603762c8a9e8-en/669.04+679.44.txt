@@ -1,0 +1,1 @@
+All right, so that's the sad reconfiguration problem. Let's look at another example. Graph coloring. We all know it. We all love it.

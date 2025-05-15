@@ -1,0 +1,63 @@
+{
+  "gold_test_set": {
+    "answerable": [
+      {
+        "question": "What is the difference in complexity between token sliding and token jumping on bipartite graphs?",
+        "answer_timestamp": "21:23"
+      },
+      {
+        "question": "What example is used to introduce combinatorial reconfiguration?",
+        "answer_timestamp": "02:36"
+      },
+      {
+        "question": "Why are certain configurations of the 15 puzzle unsolvable?",
+        "answer_timestamp": "02:36"
+      },
+      {
+        "question": "What are the structural and computational questions related to reconfiguration graphs?",
+        "answer_timestamp": "07:18"
+      },
+      {
+        "question": "How can Boolean formula satisfiability be represented as a reconfiguration problem?",
+        "answer_timestamp": "09:46"
+      },
+      {
+        "question": "What complexity class is token sliding shown to belong to when parameterized by the number of tokens?",
+        "answer_timestamp": "23:38"
+      },
+      {
+        "question": "What role do universal vertices and switches play in preventing forbidden cycles?",
+        "answer_timestamp": "35:30"
+      },
+      {
+        "question": "What is the buffer technique used for in sparse graphs?",
+        "answer_timestamp": "42:59"
+      },
+      {
+        "question": "What alternative rules to token sliding allow for size variation in independent sets?",
+        "answer_timestamp": "50:09"
+      },
+      {
+        "question": "When and where is the next parameterized algorithm workshop taking place?",
+        "answer_timestamp": "59:22"
+      }
+    ],
+    "unanswerable": [
+      {
+        "question": "What are the real-world industrial applications of cement?"
+      },
+      {
+        "question": "Who first coined the term 'combinatorial reconfiguration'?"
+      },
+      {
+        "question": "How many participants attended the last parameterized algorithms workshop?"
+      },
+      {
+        "question": "What is the exact algorithm used to solve the 15 puzzle optimally?"
+      },
+      {
+        "question": "What is the running time of the best-known algorithm for token jumping on triangle-free graphs?"
+      }
+    ]
+  }
+}

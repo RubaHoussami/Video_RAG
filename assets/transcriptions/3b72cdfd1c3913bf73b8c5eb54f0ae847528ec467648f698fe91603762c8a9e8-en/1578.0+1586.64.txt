@@ -1,0 +1,1 @@
+you're excluding all odd cycles right so and we started thinking about what kinds of cycles

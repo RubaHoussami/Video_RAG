@@ -1,0 +1,1 @@
+independent set in h the idea of this proof is is simple it's a counting argument

@@ -1,0 +1,1 @@
+parameter would be the length of the sequence like how many steps does it take to go from one

@@ -1,0 +1,1 @@
+problem can be solved in polynomial time and the recoloring problem only becomes PSPACE complete

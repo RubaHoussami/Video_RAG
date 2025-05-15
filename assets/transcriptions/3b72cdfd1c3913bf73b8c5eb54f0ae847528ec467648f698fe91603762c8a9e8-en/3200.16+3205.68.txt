@@ -1,0 +1,1 @@
+you mean you define you make two independent sets adjacent if one can be reached from the other via

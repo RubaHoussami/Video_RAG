@@ -1,0 +1,1 @@
+color the graph G. And we know again that this is NP complete for K greater than or equal to three. How do you transform that into a reconfiguration problem? Well,

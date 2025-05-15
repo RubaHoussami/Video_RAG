@@ -1,0 +1,1 @@
+hand-shaking lemma right so if the minimum degree in h was at least n over k then the number

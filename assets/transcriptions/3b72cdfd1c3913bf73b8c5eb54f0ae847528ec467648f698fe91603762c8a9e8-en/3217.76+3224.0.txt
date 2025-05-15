@@ -1,0 +1,1 @@
+because we're looking at algorithms here we kind of forget the structural picture behind it

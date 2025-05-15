@@ -1,0 +1,1 @@
+the way you solve the 15 puzzle tells you a lot about the area of combinatorially configuration.

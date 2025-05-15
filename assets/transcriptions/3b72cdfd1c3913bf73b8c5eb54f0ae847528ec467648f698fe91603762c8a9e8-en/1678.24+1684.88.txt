@@ -1,0 +1,1 @@
+side of the spectrum so if we keep bipartite and enforce the C4 freeness we get FPT for both

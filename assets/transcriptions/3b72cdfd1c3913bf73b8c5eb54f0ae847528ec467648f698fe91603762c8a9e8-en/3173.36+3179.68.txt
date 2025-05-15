@@ -1,0 +1,1 @@
+where every vertex corresponds to a independent set in the original graph

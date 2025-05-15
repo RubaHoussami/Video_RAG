@@ -1,0 +1,1 @@
+instance and that basically gives you w1 hardness of independent set on this class of graphs

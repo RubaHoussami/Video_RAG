@@ -1,0 +1,1 @@
+theorem is even more general than this corollary so this corollary does not really use the full power

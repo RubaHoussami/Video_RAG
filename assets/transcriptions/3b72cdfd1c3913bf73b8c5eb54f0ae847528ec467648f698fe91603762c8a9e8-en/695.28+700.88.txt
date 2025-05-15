@@ -1,0 +1,1 @@
+now you're given a graph. You're given two colorings of the graph, alpha and beta.

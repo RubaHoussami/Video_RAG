@@ -1,0 +1,1 @@
+And basically you have to do a sequence of moves so that you get all of the numbers in order.

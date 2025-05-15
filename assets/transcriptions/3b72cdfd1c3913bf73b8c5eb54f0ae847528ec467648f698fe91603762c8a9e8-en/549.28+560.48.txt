@@ -1,0 +1,1 @@
+one configuration to another? Meaning, can you do it in at most case steps? There is a question I should wait or no.

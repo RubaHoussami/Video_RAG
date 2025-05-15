@@ -1,0 +1,1 @@
+then the problem admits a kernel on this many vertices and it's basically a simple application

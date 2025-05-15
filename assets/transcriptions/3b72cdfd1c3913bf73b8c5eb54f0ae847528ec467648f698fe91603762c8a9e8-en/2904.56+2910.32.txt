@@ -1,0 +1,1 @@
+of the previous two lemmas if we have more than this many vertices in h it's a trivial yes instance

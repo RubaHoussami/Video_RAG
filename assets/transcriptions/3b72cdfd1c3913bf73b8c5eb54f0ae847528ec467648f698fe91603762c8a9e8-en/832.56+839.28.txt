@@ -1,0 +1,1 @@
+violate the independence. So you can jump to any other vertex as long as you maintain independence

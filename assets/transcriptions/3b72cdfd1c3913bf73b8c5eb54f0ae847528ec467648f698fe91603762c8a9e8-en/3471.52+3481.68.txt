@@ -1,0 +1,1 @@
+think of it from my the way i thought about it right that you are actually trying to find a path in a large graph where every vertex corresponds to an independent set and you move from one

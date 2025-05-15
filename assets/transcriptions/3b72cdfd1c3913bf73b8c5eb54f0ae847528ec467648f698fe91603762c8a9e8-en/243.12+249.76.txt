@@ -1,0 +1,1 @@
+but the only moves that you're allowed to do is to basically move a number into the empty square.

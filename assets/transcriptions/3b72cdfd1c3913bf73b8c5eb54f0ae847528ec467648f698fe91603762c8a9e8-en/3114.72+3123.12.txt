@@ -1,0 +1,1 @@
+removal under that rule we actually allow you to remove vertices and add vertices as long as you

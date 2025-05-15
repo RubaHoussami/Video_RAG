@@ -1,0 +1,1 @@
+do token sliding from one maximum independent set to the other or token jumping these two rules

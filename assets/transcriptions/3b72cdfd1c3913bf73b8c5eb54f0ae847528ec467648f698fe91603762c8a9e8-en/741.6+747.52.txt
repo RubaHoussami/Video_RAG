@@ -1,0 +1,1 @@
+guess this is the famous independent set problem. But we will look at it as a token placement problem

@@ -1,0 +1,1 @@
+free graphs which implies of course c4 free graphs but you can basically exclude any cycles from

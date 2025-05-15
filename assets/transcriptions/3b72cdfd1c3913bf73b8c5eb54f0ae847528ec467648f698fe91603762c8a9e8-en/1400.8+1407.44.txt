@@ -1,0 +1,1 @@
+token jumping right so they are token sliding is PSPACE complete on split graphs and chordal graphs

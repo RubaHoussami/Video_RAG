@@ -1,0 +1,1 @@
+K colorings of the graph and how they are connected under this adjacency relation that we define,

@@ -1,0 +1,1 @@
+for token sliding and jumping which is the two problems that are related to independent set it turns out that those two problems it remain PSPACE complete even if you have a graph of constant

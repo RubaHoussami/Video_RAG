@@ -1,0 +1,1 @@
+we only allow a token to slide along edges of the graph. So a token can only move to a adjacent

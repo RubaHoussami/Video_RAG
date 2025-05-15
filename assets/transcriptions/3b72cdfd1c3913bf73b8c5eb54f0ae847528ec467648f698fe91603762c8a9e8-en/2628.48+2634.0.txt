@@ -1,0 +1,1 @@
+that many vertices or more then h is guaranteed to have an independent set of size k and you're done

@@ -1,0 +1,1 @@
+right for both token sliding and token jumping it's the same reduction and and you will get

@@ -1,0 +1,1 @@
+NP space. So polynomial space and non deterministic polynomial space are the same class basically and

@@ -1,0 +1,1 @@
+clicks each of size n and all of the edges basically are between the clicks but that's it that's

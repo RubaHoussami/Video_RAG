@@ -1,0 +1,1 @@
+that h is epsilon sparse and we only require c3 c4 freeness inside j which is s union t closed neighborhood

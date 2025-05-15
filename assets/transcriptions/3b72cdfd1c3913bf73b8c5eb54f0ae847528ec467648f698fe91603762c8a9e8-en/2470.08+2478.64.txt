@@ -1,0 +1,1 @@
+so if h is epsilon sparse and j is c3 c4 free then the problem admits a kernel

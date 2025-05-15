@@ -1,0 +1,39 @@
+{
+  "3b72cdfd1c3913bf73b8c5eb54f0ae847528ec467648f698fe91603762c8a9e8": {
+    "query": {
+      "k": 5,
+      "min_score": 0.8,
+      "text_weight": 0.5,
+      "epsilon": 0.1
+    },
+    "audio": {
+      "transcriber": {
+        "model_size": "base",
+        "min_duration": 5.0,
+        "beam_size": 5,
+        "temperature": 0.0,
+        "language": "en"
+      },
+      "embedder": {
+        "model_key": "e5",
+        "batch_size": 16,
+        "dimension": 1024
+      },
+      "index_type": "faiss"
+    },
+    "video": {
+      "extractor": {
+        "scene_threshold": 0.5,
+        "bins": 64,
+        "min_duration": 5.0
+      },
+      "embedder": {
+        "model_id": "ViT-B-32",
+        "platform": "openai",
+        "batch_size": 16,
+        "dimension": 512
+      },
+      "index_type": "faiss"
+    }
+  }
+}

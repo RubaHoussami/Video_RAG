@@ -1,0 +1,1 @@
+the next one? By basically flipping one bit at a time, under the condition that I remain a satisfying assignment at all times.

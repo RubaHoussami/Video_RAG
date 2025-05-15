@@ -1,0 +1,1 @@
+is NP complete whereas token sliding is PSPACE complete which is a which is a strange

@@ -1,0 +1,1 @@
+we call the reconfiguration graph of the 15 puzzle. So, what does that graph consist of? Well,

@@ -1,0 +1,1 @@
+but this will allow us to basically conclude that both sliding and jumping are hard on this class

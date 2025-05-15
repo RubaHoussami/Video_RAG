@@ -1,0 +1,1 @@
+less than and over k and then basically you apply the standard greedy packing algorithm for

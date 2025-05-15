@@ -1,0 +1,1 @@
+can partition the graph into basically 8k squared into p plus 1 clicks so you have a bunch of

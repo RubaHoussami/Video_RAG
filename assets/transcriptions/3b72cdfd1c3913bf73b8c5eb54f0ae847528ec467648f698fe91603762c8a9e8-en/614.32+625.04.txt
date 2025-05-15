@@ -1,0 +1,1 @@
+So you can think of those satisfying assignments as bit vectors. And so now the question that you can ask is can I go from the first satisfying assignment as

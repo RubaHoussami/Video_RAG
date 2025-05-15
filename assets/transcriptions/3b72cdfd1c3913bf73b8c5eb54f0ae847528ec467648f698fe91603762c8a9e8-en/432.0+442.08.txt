@@ -1,0 +1,1 @@
+reverse 14 and 15 in the previous example that I showed you and you can easily prove that, by the way. So, when it's not connected, another question would be how many components does I have?
